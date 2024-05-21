@@ -1,7 +1,7 @@
 # Simulating-Quantum-Systems-Lectures
 These are Python notebooks for an introduction to the mathematical formalism of quantum information processing and how to simulate such tasks using Qiskit.
 
-## Structure
+## Repository Structure
 There are two folders, each containing versions of the same Jupyter notebooks.
 * **Completed-Notebooks:** Has the notebooks completed. This is for reference if something is not working or instructions are unclear.
 * **Notebooks-to-Work-Through:** This contains the notebooks to be worked through during the sessions.
